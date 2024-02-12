@@ -25,7 +25,7 @@ const data = [
   {
     id: 3,
     image: p3,
-    title: "User Managment System In Curd",
+    title: "User Managment System In Crud",
     github: "https://github.com/HasithaAbesekara/React_Node_CURD.git",
   },
   {
