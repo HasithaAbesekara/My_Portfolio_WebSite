@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/My_Portfolio_WebSite/static/css/main.253a4e8e.css",
-    "main.js": "/My_Portfolio_WebSite/static/js/main.69c50c87.js",
+    "main.js": "/My_Portfolio_WebSite/static/js/main.bddb9297.js",
     "static/media/pp.png": "/My_Portfolio_WebSite/static/media/pp.a42fed3437f63f2c6099.png",
     "static/media/me1.png": "/My_Portfolio_WebSite/static/media/me1.30226b56fa7724cf6616.png",
     "static/media/Food.png": "/My_Portfolio_WebSite/static/media/Food.17815d4f3ade3eb28681.png",
     "static/media/Full-stack developer.pdf": "/My_Portfolio_WebSite/static/media/Full-stack developer.b078d2e7a7773cad1c53.pdf",
-    "static/media/portfolio6.jpg": "/My_Portfolio_WebSite/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/porlt.png": "/My_Portfolio_WebSite/static/media/porlt.ab05943074d0d459db9d.png",
+    "static/media/food-recipi.png": "/My_Portfolio_WebSite/static/media/food-recipi.80007aed3d0755ab4b7f.png",
     "static/media/watherapp.png": "/My_Portfolio_WebSite/static/media/watherapp.eb5c0b4fcaa50e622abb.png",
     "static/media/login page.png": "/My_Portfolio_WebSite/static/media/login page.8de2b0deb2eec91e67be.png",
     "static/media/User_Mangemnet.png": "/My_Portfolio_WebSite/static/media/User_Mangemnet.10b1e1aede99ab0c7cee.png",
     "index.html": "/My_Portfolio_WebSite/index.html",
     "main.253a4e8e.css.map": "/My_Portfolio_WebSite/static/css/main.253a4e8e.css.map",
-    "main.69c50c87.js.map": "/My_Portfolio_WebSite/static/js/main.69c50c87.js.map"
+    "main.bddb9297.js.map": "/My_Portfolio_WebSite/static/js/main.bddb9297.js.map"
   },
   "entrypoints": [
     "static/css/main.253a4e8e.css",
-    "static/js/main.69c50c87.js"
+    "static/js/main.bddb9297.js"
   ]
 }
